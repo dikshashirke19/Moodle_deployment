@@ -15,13 +15,13 @@ $ tar -zxvf moodle-*tgz
 
 # **Create an Nginx server block for Moodle**
 ```
-$ sudo nano /etc/nginx/sites-available/moodle.conf
+$ sudo vim /etc/nginx/sites-available/moodle.conf
 ```
 
 
 # Create an Nginx server block for Moodle
 ```
-$ sudo nano /etc/nginx/sites-available/moodle.conf
+$ sudo vim /etc/nginx/sites-available/moodle.conf
 ```
 
 Paste the following lines:
