@@ -12,6 +12,6 @@
 
 ## step 3
 - to install and run moodle
-- refer [step-1]()
+- refer [step-1](https://github.com/xxx-holic-01/Moodle_deployment/blob/main/step_3_moodleInstallation.md)
 
 
